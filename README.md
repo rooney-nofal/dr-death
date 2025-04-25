@@ -27,7 +27,7 @@ A **dashboard** is a visual interface that combines multiple visualizations, mak
 
 ---
 
-### ⚠️ Disadvantages of Power BI
+### ⚠Disadvantages of Power BI
 - Some advanced features require a paid Pro license
 - Learning curve for **DAX** and **M** languages
 - Limited customizability in native visuals
@@ -58,7 +58,7 @@ Power BI supports a wide range of data sources:
 - **Web & REST APIs**
 - **Other platforms**: Google Analytics, Salesforce, GitHub, etc.
 
-![Get Data Screen](https://docs.microsoft.com/fr-fr/power-bi/connect-data/media/desktop-data-sources/data-sources-dialog.png)
+
 
 ---
 
