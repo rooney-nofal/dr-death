@@ -13,7 +13,6 @@ Power BI is a **data analysis and visualization tool** developed by Microsoft. I
 A **dashboard** is a visual interface that combines multiple visualizations, making it easy to understand data and monitor **key performance indicators (KPIs)** at a glance. In Power BI, dashboards are **interactive** and respond to user-driven filters and selections.
 
 
-
 ---
 
 ### Advantages of Power BI
@@ -47,7 +46,6 @@ A **dashboard** is a visual interface that combines multiple visualizations, mak
 | **Data Refresh**           | Manual or scheduled automatic updates |
 
 
-
 ---
 
 ### Compatible Data Sources
@@ -57,7 +55,6 @@ Power BI supports a wide range of data sources:
 - **Cloud services**: SharePoint, Azure, Google Drive
 - **Web & REST APIs**
 - **Other platforms**: Google Analytics, Salesforce, GitHub, etc.
-
 
 
 ---
@@ -70,7 +67,6 @@ Power BI supports a wide range of data sources:
 - Tables and matrix views
 - Slicers for dynamic filtering
 - Treemaps, donut charts, waterfall charts
-
 
 
 ---
